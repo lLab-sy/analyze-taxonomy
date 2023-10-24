@@ -8,6 +8,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+taxdump/
+sample/
+data/
+keys.json
 build/
 develop-eggs/
 dist/
