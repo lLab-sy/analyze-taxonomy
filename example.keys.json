@@ -1,0 +1,8 @@
+{
+    "taxNamePath": "./path_to_taxdump/names.dmp",
+    "taxNodePath": "./path_to_taxdump/nodes.dmp",
+    "destScientificNameFile": "./path_to_data/scientific_name.csv",
+    "destRelationFile": "./path_to_data/relation.csv",
+    "taxonomyResFile": "./path_to_data/taxonomy_path.csv",
+    "connectionURI": "mongodb://user:pass@localhost:abcd"
+}
